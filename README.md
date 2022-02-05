@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
 
 [![Lint Code Base](https://github.com/BretFisher/udemy-docker-mastery/actions/workflows/linter.yml/badge.svg)](https://github.com/BretFisher/udemy-docker-mastery/actions/workflows/linter.yml)
@@ -15,3 +16,6 @@ Get these courses for with my "cheapest on the internet" coupon links:
 My other DevOps and Docker resources are at [bretfisher.com/docker](https://www.bretfisher.com/docker)
 
 Feel free to create issues or PRs if you find a problem with examples in this repository!
+=======
+# gitBERKAY
+>>>>>>> 317b91a11173ae3e5f0108eb6a9c9e5c353cdee0
